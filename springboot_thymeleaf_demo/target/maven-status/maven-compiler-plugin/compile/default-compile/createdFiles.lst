@@ -1,0 +1,6 @@
+com\nasus\thymeleaf\entity\Student.class
+com\nasus\thymeleaf\ThymeleafApplication.class
+com\nasus\thymeleaf\controller\StudentController.class
+com\nasus\thymeleaf\service\impl\StudentServiceImpl.class
+com\nasus\thymeleaf\service\StudentService.class
+com\nasus\thymeleaf\repository\StudentRepository.class
